@@ -4,7 +4,7 @@
         "simple-import-sort"
     ],
     "rules": {
-        "eslint-plugin-vue/html-self-closing": "off",
+        "react/self-closing-comp": "off",
         "simple-import-sort/imports": "error"
     }
 }
